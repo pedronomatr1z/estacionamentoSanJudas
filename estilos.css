@@ -1,0 +1,92 @@
+
+body{
+   
+    color: #94963b;
+    -webkit-text-stroke: 1px rgb(0, 0, 0);
+      text-stroke: 1px rgb(0, 0, 0);
+    background: linear-gradient(to right, rgb(57, 78, 194), rgb(255, 252, 245)) ;
+
+}
+
+.logo{
+    list-style: none;
+    margin: 10px;
+    text-align: center;
+    padding: 40px;
+    width: 250px;
+    height: 250;
+    border-radius: 20px;
+    transition: trasnform 0.2s;
+    opacity: 0.7;
+}
+  
+      .logo:hover{
+          transform: scale(1.1);
+
+      }
+
+      .carros{
+        list-style: none;
+        margin: 10px;
+        text-align: center;
+        padding: 40px;
+        width: 1400px;
+        height: 1400;
+        border-radius: 20px;
+        transition: trasnform 1.4s;
+        opacity: 1.7;
+
+      }
+
+      .carros:hover{
+          transform: scale(1.1);
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
